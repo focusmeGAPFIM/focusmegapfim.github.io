@@ -13,6 +13,7 @@ h1{
 	font-style: normal;
 	font-weight: 300;
 	font-size: 72px;
+	margin-top: 0;
 	margin-bottom: 30px;
 	color: white;
 }
@@ -47,4 +48,8 @@ footer{
 	opacity: 0.5;
 }
 
-
+.img-responsive{
+	max-width: 200px;
+	width: 100%;
+	margin: 0;
+}
